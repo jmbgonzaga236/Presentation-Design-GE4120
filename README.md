@@ -1,8 +1,12 @@
-# 🚀 Nursing & Healthcare Portfolio: Julio Miguel B. Gonzaga
+<div align="center">
+  <h1>🌐 21st Century IT Skills - GE 4120 🌐</h1>
+  <h3>Nursing & Healthcare Portfolio: Julio Miguel B. Gonzaga</h3>
+  <p><i>Bridging healthcare, visual design, and digital health innovation</i></p>
+</div>
 
-Welcome to my portfolio repository! I am a BS-Nursing student at Ateneo de Davao University, and this space showcases my projects bridging healthcare, visual design, and digital health innovation. 
+---
 
-Below is an overview of my recent activities and projects.
+Welcome to my portfolio repository! I am a BS-Nursing student at Ateneo de Davao University, and this space showcases my recent activities and projects.
 
 ---
 
@@ -46,11 +50,11 @@ This project establishes the brand identity and professional business collateral
 This is a comprehensive proposal and accompanying infographic addressing the youth mental health crisis in the Philippines through digital innovation. 
 
 ### Project Highlights:
-* **The Problem:** Filipino youth experience significant mental health concerns but face major barriers to obtaining support, including a severe shortage of specialized mental health professionals and facilities for adolescents[cite: 1]. Additionally, financial constraints and stigma prevent many from seeking help[cite: 1].
-* **The Solution:** I proposed a Digital Mental Health Support Platform designed specifically for Filipino students[cite: 1]. 
-* **Key Features:** The platform would provide confidential access to evidence-based information, self-screening tools, and a directory to connect students with available counselors and psychiatrists based on their needs and location[cite: 1].
+* **The Problem:** Filipino youth experience significant mental health concerns but face major barriers to obtaining support, including a severe shortage of specialized mental health professionals and facilities for adolescents. Additionally, financial constraints and stigma prevent many from seeking help.
+* **The Solution:** I proposed a Digital Mental Health Support Platform designed specifically for Filipino students. 
+* **Key Features:** The platform would provide confidential access to evidence-based information, self-screening tools, and a directory to connect students with available counselors and psychiatrists based on their needs and location.
 * **Infographic (`Project 3 Infographic_GONZAGA.jpg`):** A visual summary of the barriers (silent struggles, high suicide consideration rates, inaccessibility, and out-of-pocket expenses) and the proposed E-Mental Health Platform solution.
-* **Documentation (`Project 3 Project Documentation_GONZAGA.pdf`):** The full academic paper detailing the problem description, statistics from the World Health Organization, and the complete project proposal[cite: 1].
+* **Documentation (`Project 3 Project Documentation_GONZAGA.pdf`):** The full academic paper detailing the problem description, statistics from the World Health Organization, and the complete project proposal.
 
 ![Mental Health Infographic](Project 3 Infographic_GONZAGA.jpg)
 
