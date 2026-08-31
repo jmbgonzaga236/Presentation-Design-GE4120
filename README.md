@@ -1,101 +1,105 @@
-# ✦ GE 4120 — 21st Century IT Skills
+<!--
+╔══════════════════════════════════════════════════════════════╗
+║                    GE 4120 • PORTFOLIO                      ║
+╚══════════════════════════════════════════════════════════════╝
+-->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=180&section=header&text=21st%20Century%20IT%20Skills&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d3047,100:1b9998&height=200&section=header&text=21st%20Century%20IT%20Skills&fontSize=40&fontColor=fff8ec&fontAlignY=38&animation=fadeIn" />
 </p>
+
+<h1 align="center">GE 4120 — 21st Century IT Skills</h1>
 
 <p align="center">
   <strong>Digital Portfolio • Prelim Examination</strong>
-  <br>
-  <em>A collection of activities, outputs, and creative projects from GE 4120</em>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Course-GE%204120-667eea?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Portfolio-Prelim-764ba2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Completed-43aa8b?style=for-the-badge" />
+  A collection of activities, creative outputs, and documentation
+  <br>
+  developed throughout the Prelim period.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GE%204120-2d3047?style=flat-square" />
+  <img src="https://img.shields.io/badge/Digital%20Portfolio-1b9998?style=flat-square" />
+  <img src="https://img.shields.io/badge/Prelim-e84855?style=flat-square" />
 </p>
 
 ---
 
-## ✧ About This Repository
+# About This Repository
 
-Welcome to my **GE 4120: 21st Century IT Skills** digital portfolio.
+This repository serves as my **digital portfolio for GE 4120: 21st Century IT Skills**.
 
-This repository serves as a centralized space for organizing and presenting my activities and outputs throughout the **Prelim period**. It showcases my development in presentation design, visual communication, digital creativity, and project documentation.
+It contains the activities and outputs completed during the Prelim period, demonstrating my development in **presentation design, visual communication, typography, color theory, digital creativity, and project documentation**.
 
 > **Learn. Create. Design. Present.**
 
 ---
 
-## 📂 Portfolio Contents
+# Portfolio
 
-| # | Activity | Description |
-|:---:|---|---|
-| **01** | 🎨 Presentation Design Principles | Application of fundamental principles to create effective and engaging presentations. |
-| **02** | 🌈 Color Palette & Typography | Exploration of color combinations and typography to establish visual identity and readability. |
-| **03** | 📱 Social Media Infographics & Mini Project | Creation and documentation of a visual project designed for digital communication. |
+### 01 · Presentation Design Principles
 
----
+Understanding and applying fundamental design principles to create presentations that are clear, organized, engaging, and visually effective.
 
-## 🎨 Activity 01 — Presentation Design Principles
+**Focus Areas**
 
-### Focus
-Understanding and applying fundamental presentation design principles.
-
-### What I Created
-A presentation that applies design principles to improve visual organization, communication, and audience engagement.
-
-### Key Takeaways
 - Visual hierarchy
 - Balance and alignment
 - Consistency
 - Readability
 - Effective communication
 
-📁 **[View Activity 01 →](./Activity-1)**
+**→ [View Activity 01](./Activity-1)**
 
 ---
 
-## 🌈 Activity 02 — Color Palette & Typography
+### 02 · Color Palette & Typography
 
-### Focus
-Developing an intentional visual identity through color and typography.
+Developing a consistent visual identity through intentional color selection and typography.
 
-### What I Created
-A selected color palette and typography combination designed to create a cohesive and visually appealing presentation.
+**Color Palette**
 
-### Key Considerations
-- Color harmony
-- Contrast
-- Readability
-- Font pairing
-- Visual consistency
+| Color | Hex | Usage |
+|:---|:---:|:---|
+| **Midnight Navy** | `#2d3047` | 60% |
+| **Cool Teal** | `#1b9998` | 25% |
+| **Coral Red** | `#e84855` | 10% |
+| **Vital Red** | `#e9212d` | Accent |
+| **Warm Ivory** | `#fff8ec` | 5% |
 
-📁 **[View Activity 02 →](./Activity-2)**
+**Typography**
+
+**Montserrat**  
+*Display Font — headings, titles, and major statements.*
+
+**Arvo**  
+*Body Font — descriptions, paragraphs, and supporting information.*
+
+**→ [View Activity 02](./Activity-2)**
 
 ---
 
-## 📱 Activity 03 — Social Media Infographics & Mini Project
+### 03 · Social Media Infographics & Mini Project
 
-### Focus
-Applying visual communication principles to digital and social media content.
+A creative project focused on applying visual communication principles to social media content and digital presentation.
 
-### What I Created
-A social media infographic and mini project demonstrating the creative process from concept development to final output.
+**Focus Areas**
 
-### Key Considerations
 - Concept development
 - Visual storytelling
 - Information hierarchy
 - Audience engagement
 - Digital presentation
+- Project documentation
 
-📁 **[View Activity 03 →](./Activity-3)**
+**→ [View Activity 03](./Activity-3)**
 
 ---
 
-## 🗂️ Repository Structure
+# Repository Structure
 
 ```text
 GE-4120-IT-Skills/
@@ -107,6 +111,6 @@ GE-4120-IT-Skills/
 │   └── Color Palette & Typography
 │
 ├── 📁 Activity-3/
-│   └── Social Media Infographics & Mini Project
+│   └── Social Media Infographics
 │
 └── 📄 README.md
