@@ -52,7 +52,7 @@ Understanding and applying fundamental design principles to create presentations
 - Readability
 - Effective communication
 
-**→ [View Activity 01](./Activity-1)**
+**→ [View Presentation Design Principles](./Presentation Design Principles)**
 
 ---
 
