@@ -52,8 +52,6 @@ Understanding and applying fundamental design principles to create presentations
 - Readability
 - Effective communication
 
-**→ [View Presentation Design Principles](./Presentation Design Principles)**
-
 ---
 
 ### 02 · Color Palette & Typography
@@ -78,8 +76,6 @@ Developing a consistent visual identity through intentional color selection and 
 **Arvo**  
 *Body Font — descriptions, paragraphs, and supporting information.*
 
-**→ [View Activity 02](./Activity-2)**
-
 ---
 
 ### 03 · Social Media Infographics & Mini Project
@@ -94,8 +90,6 @@ A creative project focused on applying visual communication principles to social
 - Audience engagement
 - Digital presentation
 - Project documentation
-
-**→ [View Activity 03](./Activity-3)**
 
 ---
 
