@@ -1,65 +1,57 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GE 4120 Prelim Portfolio</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-</head>
-<body class="bg-gray-900 text-gray-100 font-sans leading-relaxed">
-    <div class="max-w-5xl mx-auto px-6 py-12">
-        
-        <!-- Header -->
-        <header class="text-center mb-16 border-b border-gray-700 pb-8">
-            <h1 class="text-4xl font-bold text-blue-400 mb-2">GE 4120: 21st Century IT Skills</h1>
-            <p class="text-xl text-gray-400 mb-4">Prelim Examination Showcase</p>
-            <p class="text-sm bg-gray-800 inline-block px-4 py-2 rounded-full shadow-lg">By: [Your Name Here]</p>
-        </header>
+# 🚀 Nursing & Healthcare Portfolio: Julio Miguel B. Gonzaga
 
-        <!-- Topic 1: GitHub Setup -->
-        <section class="mb-16 bg-gray-800 p-8 rounded-xl shadow-md border border-gray-700">
-            <h2 class="text-2xl font-semibold text-blue-300 mb-4">1. GitHub Setup and Portfolio Organization</h2>
-            <div class="space-y-4 text-gray-300">
-                <p><strong>Setup & Organization:</strong> [Explain how you created and set up your repository here.]</p>
-                <p><strong>Accessibility:</strong> [Discuss how you made your portfolio presentable.]</p>
-                <p><strong>Challenges:</strong> [Mention any issues faced and how you solved them.]</p>
-            </div>
-        </section>
+Welcome to my portfolio repository! I am a BS-Nursing student at Ateneo de Davao University, and this space showcases my projects bridging healthcare, visual design, and digital health innovation. 
 
-        <!-- Topic 2: Discussion of the Three Activities -->
-        <section class="mb-16">
-            <h2 class="text-2xl font-semibold text-blue-300 mb-6 border-b border-gray-700 pb-2">2. Discussion of the Three Activities</h2>
-            <div class="grid md:grid-cols-3 gap-6">
-                <!-- Activity 1 -->
-                <div class="bg-gray-800 p-6 rounded-xl border border-gray-700 hover:border-blue-500 transition">
-                    <h3 class="text-xl font-bold text-white mb-2">Activity 1</h3>
-                    <p class="text-sm text-blue-400 mb-4">Presentation Design Principles</p>
-                    <p class="text-gray-400 text-sm">[Discuss the design principles you applied and how they improved your presentation here.]</p>
-                </div>
-                <!-- Activity 2 -->
-                <div class="bg-gray-800 p-6 rounded-xl border border-gray-700 hover:border-blue-500 transition">
-                    <h3 class="text-xl font-bold text-white mb-2">Activity 2</h3>
-                    <p class="text-sm text-blue-400 mb-4">Color Palette and Typography</p>
-                    <p class="text-gray-400 text-sm">[Explain your chosen colors and typography and why you selected them.]</p>
-                </div>
-                <!-- Activity 3 -->
-                <div class="bg-gray-800 p-6 rounded-xl border border-gray-700 hover:border-blue-500 transition">
-                    <h3 class="text-xl font-bold text-white mb-2">Activity 3</h3>
-                    <p class="text-sm text-blue-400 mb-4">Social Media Infographics</p>
-                    <p class="text-gray-400 text-sm">[Present your output and explain its concept, design choices, and creative process.]</p>
-                </div>
-            </div>
-        </section>
+Below is an overview of my recent activities and projects.
 
-        <!-- Topic 3: Presentation Wrap-up -->
-        <section class="bg-gradient-to-r from-blue-900 to-gray-800 p-8 rounded-xl shadow-lg border border-blue-800">
-            <h2 class="text-2xl font-semibold text-blue-300 mb-4">3. Presentation Wrap-Up</h2>
-            <h3 class="text-lg font-bold text-white mb-3">"What is the importance of Presentation Design?"</h3>
-            <p class="text-gray-300 italic">
-                "[Reflect on how effective design helps communicate ideas, improves understanding, and engages an audience here.]"
-            </p>
-        </section>
-        
-    </div>
-</body>
-</html>
+---
+
+## ☕ Project 1: University Event Promotion
+**File Reference:** `Project 1.jpg`
+
+### What is this project?
+This is a promotional poster designed for a community-building event at the Ateneo de Davao University, School of Nursing. 
+
+### Project Highlights:
+* **Goal:** To create a welcoming, visually appealing invitation for a "Free Coffee!" event designed to spread good vibes and caffeine.
+* **Design Choices:** I utilized hand-drawn, watercolor-style illustrations of coffee and pastries to create a warm, approachable, and relaxing aesthetic. 
+* **Details:** The event was scheduled for Tuesday, August 4, 2026, at Booth 7. 
+
+![Project 1](Project 1.jpg)
+
+---
+
+## 🩺 Project 2: "HeartFirst" Brand Identity & Professional Collateral
+**File References:** `Project 2 - A.png`, `Project 2 - B.png`
+
+### What is this project?
+This project establishes the brand identity and professional business collateral for "HeartFirst," a primary care provider practice based in Davao City.
+
+### Project Highlights:
+* **The Goal:** To design a trustworthy, professional, and modern visual identity for my future practice as a Registered Nurse.
+* **Color Palette & Typography (`Project 2 - A.png`):** 
+  * I selected a palette balancing professional trust and warmth: Midnight Navy (60%), Cool Teal (25%), Vital Red (10%), Coral Red, and Warm Ivory (5%). 
+  * For typography, I paired Montserrat (a clean, authoritative display font) with Arvo (a highly readable body font).
+* **Business Card (`Project 2 - B.png`):** The final output applies these brand rules to a clean, highly legible business card featuring the HeartFirst logo, my professional credentials, and essential contact information.
+
+![HeartFirst Brand Guidelines](Project 2 - A.png)
+![HeartFirst Business Card](Project 2 - B.png)
+
+---
+
+## 🧠 Project 3: Digital Mental Health Support Platform Proposal
+**File References:** `Project 3 Infographic_GONZAGA.jpg`, `Project 3 Project Documentation_GONZAGA.pdf`
+
+### What is this project?
+This is a comprehensive proposal and accompanying infographic addressing the youth mental health crisis in the Philippines through digital innovation. 
+
+### Project Highlights:
+* **The Problem:** Filipino youth experience significant mental health concerns but face major barriers to obtaining support, including a severe shortage of specialized mental health professionals and facilities for adolescents[cite: 1]. Additionally, financial constraints and stigma prevent many from seeking help[cite: 1].
+* **The Solution:** I proposed a Digital Mental Health Support Platform designed specifically for Filipino students[cite: 1]. 
+* **Key Features:** The platform would provide confidential access to evidence-based information, self-screening tools, and a directory to connect students with available counselors and psychiatrists based on their needs and location[cite: 1].
+* **Infographic (`Project 3 Infographic_GONZAGA.jpg`):** A visual summary of the barriers (silent struggles, high suicide consideration rates, inaccessibility, and out-of-pocket expenses) and the proposed E-Mental Health Platform solution.
+* **Documentation (`Project 3 Project Documentation_GONZAGA.pdf`):** The full academic paper detailing the problem description, statistics from the World Health Organization, and the complete project proposal[cite: 1].
+
+![Mental Health Infographic](Project 3 Infographic_GONZAGA.jpg)
+
+*(Please refer to the `Project 3 Project Documentation_GONZAGA.pdf` file in this repository to read the full proposal).*
