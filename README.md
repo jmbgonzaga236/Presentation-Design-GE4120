@@ -1,5 +1,16 @@
+<!--
+╔══════════════════════════════════════════════════════════════╗
+║                    GE 4120 • PORTFOLIO                      ║
+╚══════════════════════════════════════════════════════════════╝
+-->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2d3047,100:1b9998&height=200&section=header&text=21st%20Century%20IT%20Skills&fontSize=40&fontColor=fff8ec&fontAlignY=38&animation=fadeIn" />
+</p>
+
+<h1 align="center">GE 4120 — 21st Century IT Skills</h1>
+
 <div align="center">
-  <h1>🌐 21st Century IT Skills - GE 4120 🌐</h1>
   <h3>Nursing & Healthcare Portfolio: Julio Miguel B. Gonzaga</h3>
   <p><i>Bridging healthcare, visual design, and digital health innovation</i></p>
 </div>
