@@ -2,7 +2,6 @@
 
 **GE 4120: 21st Century IT Skills** · Julio Gonzaga
 
-Prelim examination showcase using a **Midnight Navy** base, **Cool Teal** support, **Vital Red** highlights, and **Warm Ivory** type. Headings use **Montserrat**. Body copy uses **Arvo**.
 
 <table>
   <tr>
@@ -13,9 +12,6 @@ Prelim examination showcase using a **Midnight Navy** base, **Cool Teal** suppor
     <td width="20%" bgcolor="#fff8ec" align="center"><br><font color="#2d3047"><b>Warm Ivory</b><br>#fff8ec<br>5%</font><br>&nbsp;</td>
   </tr>
 </table>
-
-**Montserrat** - headings, titles, and big statements  
-**Arvo** - body text, descriptions, and information
 
 **Repository:** [jmbgonzaga236/Presentation-Design-GE4120](https://github.com/jmbgonzaga236/Presentation-Design-GE4120)
 
