@@ -1,89 +1,65 @@
-# Presentation Design - GE 4120
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GE 4120 Prelim Portfolio</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-900 text-gray-100 font-sans leading-relaxed">
+    <div class="max-w-5xl mx-auto px-6 py-12">
+        
+        <!-- Header -->
+        <header class="text-center mb-16 border-b border-gray-700 pb-8">
+            <h1 class="text-4xl font-bold text-blue-400 mb-2">GE 4120: 21st Century IT Skills</h1>
+            <p class="text-xl text-gray-400 mb-4">Prelim Examination Showcase</p>
+            <p class="text-sm bg-gray-800 inline-block px-4 py-2 rounded-full shadow-lg">By: [Your Name Here]</p>
+        </header>
 
-**GE 4120: 21st Century IT Skills** · Julio Gonzaga
+        <!-- Topic 1: GitHub Setup -->
+        <section class="mb-16 bg-gray-800 p-8 rounded-xl shadow-md border border-gray-700">
+            <h2 class="text-2xl font-semibold text-blue-300 mb-4">1. GitHub Setup and Portfolio Organization</h2>
+            <div class="space-y-4 text-gray-300">
+                <p><strong>Setup & Organization:</strong> [Explain how you created and set up your repository here.]</p>
+                <p><strong>Accessibility:</strong> [Discuss how you made your portfolio presentable.]</p>
+                <p><strong>Challenges:</strong> [Mention any issues faced and how you solved them.]</p>
+            </div>
+        </section>
 
+        <!-- Topic 2: Discussion of the Three Activities -->
+        <section class="mb-16">
+            <h2 class="text-2xl font-semibold text-blue-300 mb-6 border-b border-gray-700 pb-2">2. Discussion of the Three Activities</h2>
+            <div class="grid md:grid-cols-3 gap-6">
+                <!-- Activity 1 -->
+                <div class="bg-gray-800 p-6 rounded-xl border border-gray-700 hover:border-blue-500 transition">
+                    <h3 class="text-xl font-bold text-white mb-2">Activity 1</h3>
+                    <p class="text-sm text-blue-400 mb-4">Presentation Design Principles</p>
+                    <p class="text-gray-400 text-sm">[Discuss the design principles you applied and how they improved your presentation here.]</p>
+                </div>
+                <!-- Activity 2 -->
+                <div class="bg-gray-800 p-6 rounded-xl border border-gray-700 hover:border-blue-500 transition">
+                    <h3 class="text-xl font-bold text-white mb-2">Activity 2</h3>
+                    <p class="text-sm text-blue-400 mb-4">Color Palette and Typography</p>
+                    <p class="text-gray-400 text-sm">[Explain your chosen colors and typography and why you selected them.]</p>
+                </div>
+                <!-- Activity 3 -->
+                <div class="bg-gray-800 p-6 rounded-xl border border-gray-700 hover:border-blue-500 transition">
+                    <h3 class="text-xl font-bold text-white mb-2">Activity 3</h3>
+                    <p class="text-sm text-blue-400 mb-4">Social Media Infographics</p>
+                    <p class="text-gray-400 text-sm">[Present your output and explain its concept, design choices, and creative process.]</p>
+                </div>
+            </div>
+        </section>
 
-<table>
-  <tr>
-    <td width="20%" bgcolor="#2d3047" align="center"><br><font color="#fff8ec"><b>Midnight Navy</b><br>#2d3047<br>60%</font><br>&nbsp;</td>
-    <td width="20%" bgcolor="#1b998b" align="center"><br><font color="#fff8ec"><b>Cool Teal</b><br>#1b998b<br>25%</font><br>&nbsp;</td>
-    <td width="20%" bgcolor="#e84855" align="center"><br><font color="#fff8ec"><b>Coral Red</b><br>#e84855</font><br>&nbsp;</td>
-    <td width="20%" bgcolor="#e9212d" align="center"><br><font color="#fff8ec"><b>Vital Red</b><br>#e9212d<br>10%</font><br>&nbsp;</td>
-    <td width="20%" bgcolor="#fff8ec" align="center"><br><font color="#2d3047"><b>Warm Ivory</b><br>#fff8ec<br>5%</font><br>&nbsp;</td>
-  </tr>
-</table>
-
-**Repository:** [jmbgonzaga236/Presentation-Design-GE4120](https://github.com/jmbgonzaga236/Presentation-Design-GE4120)
-
----
-
-## Activities 1, 2, and 3
-
-| Folder | Activity | Contents |
-| --- | --- | --- |
-| [Design Principles](Design%20Principles/) | Activity 1 - Presentation design principles | Slide export (`ACTIVITY 1 - GE 4120_GONZAGA (1).png`) |
-| [Palette & Typography](Palette%20%26%20Typography/) | Activity 2 - Color palette and typography | Source package (`Activity 2_Gonzaga.zip`) |
-| [Infographics and Project Doc](Infographics%20and%20Project%20Doc/) | Activity 3 - Infographics and mini project | Infographic (`Infographic_GONZAGA.png`) and [project documentation PDF](Infographics%20and%20Project%20Doc/Project%20Documentation_GONZAGA.pdf) |
-
-- **Activity 1:** Visual hierarchy, contrast, alignment, and formatting so each slide carries one primary claim. Size, weight, and color rank information; a consistent left rail keeps the deck feeling like a system.
-- **Activity 2:** Midnight Navy, Cool Teal, Coral Red, Vital Red, and Warm Ivory, with Montserrat for titles and Arvo for body copy. Usage split: 60% navy, 25% teal, 10% vital red, 5% ivory.
-- **Activity 3:** Social graphic and process PDF built on the same colors and type so the campaign matches the rest of the portfolio.
-
----
-
-## Repository setup and organization
-
-**Repo creation**  
-This is a public GitHub repository named for the course so the URL stays easy to share. The README states purpose, course code, and where each activity lives. GitHub Pages can be turned on later from the `main` branch root if an `index.html` is added.
-
-**File organization**  
-Work is grouped by activity, not by file type alone:
-
-```
-Presentation-Design-GE4120/
-├── Design Principles/              # Activity 1 slides
-├── Palette & Typography/           # Activity 2 color and type package
-├── Infographics and Project Doc/   # Activity 3 graphic + PDF
-└── README.md                       # this page
-```
-
-**Digital accessibility setup**  
-See the Accessibility block below. Keyboard-friendly structure, high-contrast pairs from this palette, and alt-ready file names are part of how the repo is organized.
-
-**Challenges encountered and resolved**  
-The README had briefly been filled with website HTML, so GitHub could not show a normal project page. It is now markdown documentation. Placeholder vs. final media is handled by keeping real PNG, ZIP, and PDF files in the activity folders and linking to them from this file.
-
----
-
-## Presentation wrap-up and reflection
-
-**The importance of presentation design**  
-Presentation design is not decoration after the facts. It is how attention is allocated, how trust is signaled, and how complex IT work becomes something an audience can actually use.
-
-**Key takeaways**
-
-- **Audience engagement:** One claim at a time, a clear next step, and a profile that is easy to follow after class.
-- **Clarity in communication:** Contrast, alignment, and a limited palette (navy, teal, red, ivory) reduce noise so the work can be graded and reused.
-- **Visual experience:** Montserrat for statements, Arvo for reading, Vital Red only for highlights. If the system is calm, the ideas get the spotlight.
-
----
-
-## How to view the work
-
-1. Open this repository on GitHub.
-2. Browse each activity folder and open the PNG, ZIP, or PDF files listed above.
-3. For a live web portfolio, add an `index.html` at the repo root and enable **GitHub Pages** (Settings → Pages → Deploy from `main` / root).
-
----
-
-## Accessibility
-
-- **Contrast:** Warm Ivory (`#fff8ec`) on Midnight Navy (`#2d3047`) for long text. Cool Teal and Vital Red are accents, not body-text colors.
-- **Type:** Montserrat for short headings; Arvo for descriptions so information stays readable.
-- **Media:** PNG and PDF files keep descriptive names (`GONZAGA`) so they make sense without opening the file. When used on a web page, each image should have alt text.
-- **Structure:** This README uses headings and lists so screen readers can skip by section. Links point at real folders and files, not empty placeholders.
-- **Color is not the only signal:** Activity numbers and folder names sit next to color so the work is still understandable in grayscale.
-
----
-
-*Course work for GE 4120: 21st Century IT Skills.*
+        <!-- Topic 3: Presentation Wrap-up -->
+        <section class="bg-gradient-to-r from-blue-900 to-gray-800 p-8 rounded-xl shadow-lg border border-blue-800">
+            <h2 class="text-2xl font-semibold text-blue-300 mb-4">3. Presentation Wrap-Up</h2>
+            <h3 class="text-lg font-bold text-white mb-3">"What is the importance of Presentation Design?"</h3>
+            <p class="text-gray-300 italic">
+                "[Reflect on how effective design helps communicate ideas, improves understanding, and engages an audience here.]"
+            </p>
+        </section>
+        
+    </div>
+</body>
+</html>
