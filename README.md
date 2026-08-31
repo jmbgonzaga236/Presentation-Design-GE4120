@@ -59,5 +59,5 @@ This is a comprehensive proposal and accompanying infographic addressing the you
 * **The Solution:** I proposed a Digital Mental Health Support Platform designed specifically for Filipino students. 
 * **Key Features:** The platform would provide confidential access to evidence-based information, self-screening tools, and a directory to connect students with available counselors and psychiatrists based on their needs and location.
 * **Infographic:** A visual summary of the barriers (silent struggles, high suicide consideration rates, inaccessibility, and out-of-pocket expenses) and the proposed E-Mental Health Platform solution.
-* **Documentation:** The full academic paper detailing the problem description, statistics from the World Health Organization, and the complete project proposal[cite: 1].
+* **Documentation:** The full academic paper detailing the problem description, statistics from the World Health Organization, and the complete project proposal.
 
