@@ -65,3 +65,5 @@ This is a comprehensive proposal and accompanying infographic addressing the you
 * **Infographic:** A visual summary of the barriers (silent struggles, high suicide consideration rates, inaccessibility, and out-of-pocket expenses) and the proposed E-Mental Health Platform solution.
 * **Documentation:** The full academic paper detailing the problem description, statistics from the World Health Organization, and the complete project proposal.
 
+<img width="800" height="2000" alt="Infographic_GONZAGA" src="https://github.com/user-attachments/assets/3a063178-9489-4502-be13-ea7ccf1fb549" />
+
