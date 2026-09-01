@@ -48,6 +48,8 @@ This project establishes the brand identity and professional business collateral
   * For typography, I paired Montserrat (a clean, authoritative display font) with Arvo (a highly readable body font).
 * **Business Card:** The final output applies these brand rules to a clean, highly legible business card featuring the HeartFirst logo, my professional credentials, and essential contact information.
 
+<img width="1920" height="1080" alt="4" src="https://github.com/user-attachments/assets/c70fd3bd-34ac-4c45-b5d5-0b34cfddfb27" />
+
 
 ---
 
