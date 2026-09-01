@@ -29,7 +29,9 @@ This is a promotional poster designed for a community-building event at the Aten
 ### Project Highlights:
 * **Goal:** To create a welcoming, visually appealing invitation for a "Free Coffee!" event designed to spread good vibes and caffeine.
 * **Design Choices:** I utilized hand-drawn, watercolor-style illustrations of coffee and pastries to create a warm, approachable, and relaxing aesthetic. 
-* **Details:** The event was scheduled for Tuesday, August 4, 2026, at Booth 7. 
+* **Details:** The event was scheduled for Tuesday, August 4, 2026, at Booth 7.
+
+* <img width="1414" height="2000" alt="ACTIVITY 1 - GE 4120_GONZAGA (1)" src="https://github.com/user-attachments/assets/1f9c4a30-db4b-4189-a9be-4d718fd14aa5" />
 
 
 ---
