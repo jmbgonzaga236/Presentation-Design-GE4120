@@ -26,7 +26,7 @@ Welcome to my portfolio repository! I am a BS-Nursing student at Ateneo de Davao
 
 A presentation by **BSN 4-F, Group 2** for the September 2026 midterm period, covering Google Slides, its features, practical applications, and an interactive quiz.
 
-Open the file attached above to access the presentation.
+Open the file attached above in the repository to access the presentation.
 
 <img width="492" height="285" alt="image" src="https://github.com/user-attachments/assets/9368a4f1-c090-40f7-9719-94670944c42d" />
 
