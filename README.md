@@ -19,6 +19,13 @@
 
 Welcome to my portfolio repository! I am a BS-Nursing student at Ateneo de Davao University, and this space showcases my recent activities and projects.
 
+
+
+---
+## 📚 Electives Presentation: Google Slides
+
+A presentation by **BSN 4-F, Group 2** for the September 2026 midterm period, covering Google Slides, its features, practical applications, and an interactive quiz.
+
 ---
 
 ## ☕ Project 1: University Event Promotion
